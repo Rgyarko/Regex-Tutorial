@@ -10,9 +10,7 @@ A tutorial on the use and implementation of a specific regular expression, or re
 * Links
 * Preview
 * License
-* Development Goals
 
-N/A
 
 # User Story
 AS A web development student
